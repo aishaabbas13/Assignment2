@@ -15,3 +15,10 @@ git commit -m "First commit"
 git remote add origin https://github.com/aishaabbas13/Assignment.git
 git remote -v
 git push origin master
+git init
+git commit -m "First commit"
+git init
+git add .
+git commit -m "First commit"
+git remote add origin https://github.com/aishaabbas13/Assignment2.git
+git remote -v
